@@ -1,0 +1,3 @@
+Today is a great day!
+I love Github
+Git != Github
